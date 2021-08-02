@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 9f81aee3bd2b4f54e8ea2d084f75b2d9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WaterFountain_Mesh_0
+    100004: WaterFountain_Mesh_1
+    100006: WaterFountain_Mesh_2
+    100008: WaterFountain_Mesh_3
+    400000: //RootNode
+    400002: WaterFountain_Mesh_0
+    400004: WaterFountain_Mesh_1
+    400006: WaterFountain_Mesh_2
+    400008: WaterFountain_Mesh_3
+    2300000: WaterFountain_Mesh_0
+    2300002: WaterFountain_Mesh_1
+    2300004: WaterFountain_Mesh_2
+    2300006: WaterFountain_Mesh_3
+    3300000: WaterFountain_Mesh_0
+    3300002: WaterFountain_Mesh_1
+    3300004: WaterFountain_Mesh_2
+    3300006: WaterFountain_Mesh_3
+    4300000: WaterFountain_Mesh_0
+    4300002: WaterFountain_Mesh_1
+    4300004: WaterFountain_Mesh_2
+    4300006: WaterFountain_Mesh_3
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFountain_Mesh_0Mat
+    second: {fileID: 2100000, guid: cf0075b79fd1aa14a9e9224d308eaf38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFountain_Mesh_1Mat
+    second: {fileID: 2100000, guid: d3148ba1efb118742826bc18c64e5cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFountain_Mesh_2Mat
+    second: {fileID: 2100000, guid: c06fdf3fbd1ae9b43a3404c7398f7702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterFountain_Mesh_3Mat
+    second: {fileID: 2100000, guid: 461e8f2e4b844a94d840ef053f4c32e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

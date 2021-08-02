@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 2bbbce91bb9369346a5f5747969ba4ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3548379857424868372
+    second: Inverja_SpriteSheet_0
+  - first:
+      213: -4508915195362774675
+    second: Inverja_SpriteSheet_1
+  - first:
+      213: 7721183367866863598
+    second: Inverja_SpriteSheet_2
+  - first:
+      213: 410083645661328230
+    second: Inverja_SpriteSheet_3
+  - first:
+      213: -8998941657292546116
+    second: Inverja_SpriteSheet_4
+  - first:
+      213: 9192305715933207030
+    second: Inverja_SpriteSheet_5
+  - first:
+      213: 3326264655408741897
+    second: Inverja_SpriteSheet_6
+  - first:
+      213: 3147026865524946145
+    second: Inverja_SpriteSheet_7
+  - first:
+      213: 2387693129549945389
+    second: Inverja_SpriteSheet_8
+  - first:
+      213: 5316331479437045167
+    second: Inverja_SpriteSheet_9
+  - first:
+      213: 4312790758042511348
+    second: Inverja_SpriteSheet_10
+  - first:
+      213: -5671743022157517019
+    second: Inverja_SpriteSheet_11
+  - first:
+      213: -2559145385662266470
+    second: Inverja_SpriteSheet_12
+  - first:
+      213: -8055615583041252158
+    second: Inverja_SpriteSheet_13
+  - first:
+      213: 9116949944347265531
+    second: Inverja_SpriteSheet_14
+  - first:
+      213: -6121166685372371949
+    second: Inverja_SpriteSheet_15
+  - first:
+      213: 4997081179101187777
+    second: Inverja_SpriteSheet_16
+  - first:
+      213: 7175190798127275156
+    second: Inverja_SpriteSheet_17
+  - first:
+      213: -3017671225417880520
+    second: Inverja_SpriteSheet_18
+  - first:
+      213: 4763902858778453417
+    second: Inverja_SpriteSheet_19
+  - first:
+      213: -3167782634269383226
+    second: Inverja_SpriteSheet_20
+  - first:
+      213: 7541366881072901508
+    second: Inverja_SpriteSheet_21
+  - first:
+      213: 1881656909628520511
+    second: Inverja_SpriteSheet_22
+  - first:
+      213: 6792336772455757713
+    second: Inverja_SpriteSheet_23
+  - first:
+      213: -4752442152317873074
+    second: Inverja_SpriteSheet_24
+  - first:
+      213: 4136639526094879819
+    second: Inverja_SpriteSheet_25
+  - first:
+      213: 1365875051904389178
+    second: Inverja_SpriteSheet_26
+  - first:
+      213: 1008760334533059296
+    second: Inverja_SpriteSheet_27
+  - first:
+      213: -2597578850423364327
+    second: Inverja_SpriteSheet_28
+  - first:
+      213: -9215529764903375628
+    second: Inverja_SpriteSheet_29
+  - first:
+      213: -6685590196183383980
+    second: Inverja_SpriteSheet_30
+  - first:
+      213: 8574011258468635051
+    second: Inverja_SpriteSheet_31
+  - first:
+      213: -6775850427818616511
+    second: Inverja_SpriteSheet_32
+  - first:
+      213: 5683482976719743583
+    second: Inverja_SpriteSheet_33
+  - first:
+      213: 3200985149134228577
+    second: Inverja_SpriteSheet_34
+  - first:
+      213: -8541108715407049150
+    second: Inverja_SpriteSheet_35
+  - first:
+      213: 6890053764049112377
+    second: Inverja_SpriteSheet_36
+  - first:
+      213: -2044691759517476737
+    second: Inverja_SpriteSheet_37
+  - first:
+      213: -6072223650462618357
+    second: Inverja_SpriteSheet_38
+  - first:
+      213: 8225434594149035404
+    second: Inverja_SpriteSheet_39
+  - first:
+      213: 7968099166362834934
+    second: Inverja_SpriteSheet_40
+  - first:
+      213: 4996443450966385394
+    second: Inverja_SpriteSheet_41
+  - first:
+      213: -4150945482640911860
+    second: Inverja_SpriteSheet_42
+  - first:
+      213: 7012622848229126613
+    second: Inverja_SpriteSheet_43
+  - first:
+      213: 2956107237721572740
+    second: Inverja_SpriteSheet_44
+  - first:
+      213: 62430546730433480
+    second: Inverja_SpriteSheet_45
+  - first:
+      213: -5664389624727126161
+    second: Inverja_SpriteSheet_46
+  - first:
+      213: 8107260169181910943
+    second: Inverja_SpriteSheet_47
+  - first:
+      213: 1626298565622327778
+    second: Inverja_SpriteSheet_48
+  - first:
+      213: -7454044683570644233
+    second: Inverja_SpriteSheet_49
+  - first:
+      213: 1131056527336143282
+    second: Inverja_SpriteSheet_50
+  - first:
+      213: -1192805937312883379
+    second: Inverja_SpriteSheet_51
+  - first:
+      213: -8256526717199020248
+    second: Inverja_SpriteSheet_52
+  - first:
+      213: -3175871604763515809
+    second: Inverja_SpriteSheet_53
+  - first:
+      213: 9129483046120137539
+    second: Inverja_SpriteSheet_54
+  - first:
+      213: -784907611698132648
+    second: Inverja_SpriteSheet_55
+  - first:
+      213: -2850125172489794695
+    second: Inverja_SpriteSheet_56
+  - first:
+      213: 1148653417309294507
+    second: Inverja_SpriteSheet_57
+  - first:
+      213: -1856744761152299371
+    second: Inverja_SpriteSheet_58
+  - first:
+      213: 6755009728714590324
+    second: Inverja_SpriteSheet_59
+  - first:
+      213: -3974009715788018614
+    second: Inverja_SpriteSheet_60
+  - first:
+      213: 2379135812475597330
+    second: Inverja_SpriteSheet_61
+  - first:
+      213: -4056568792510182008
+    second: Inverja_SpriteSheet_62
+  - first:
+      213: 8624001528969425058
+    second: Inverja_SpriteSheet_63
+  - first:
+      213: -4551076836669697789
+    second: Inverja_SpriteSheet_64
+  - first:
+      213: -1527504443976949125
+    second: Inverja_SpriteSheet_65
+  - first:
+      213: -5880182098169491442
+    second: Inverja_SpriteSheet_66
+  - first:
+      213: 1409179554253784302
+    second: Inverja_SpriteSheet_67
+  - first:
+      213: 6179689332465725336
+    second: Inverja_SpriteSheet_68
+  - first:
+      213: 8497682136419250493
+    second: Inverja_SpriteSheet_69
+  - first:
+      213: -6512912079227219879
+    second: Inverja_SpriteSheet_70
+  - first:
+      213: 8874159828319092562
+    second: Inverja_SpriteSheet_71
+  - first:
+      213: -4506376235942075594
+    second: Inverja_SpriteSheet_72
+  - first:
+      213: 3235970358563990681
+    second: Inverja_SpriteSheet_73
+  - first:
+      213: 7709582003477086683
+    second: Inverja_SpriteSheet_74
+  - first:
+      213: -3170530851489290997
+    second: Inverja_SpriteSheet_75
+  - first:
+      213: 6023265884383981187
+    second: Inverja_SpriteSheet_76
+  - first:
+      213: -6995065824970708433
+    second: Inverja_SpriteSheet_77
+  - first:
+      213: 3698705088920431547
+    second: Inverja_SpriteSheet_78
+  - first:
+      213: -803786122731756238
+    second: Inverja_SpriteSheet_79
+  - first:
+      213: -1554436394195244445
+    second: Inverja_SpriteSheet_80
+  - first:
+      213: -4469265249780869990
+    second: Inverja_SpriteSheet_81
+  - first:
+      213: 6037561326130133761
+    second: Inverja_SpriteSheet_82
+  - first:
+      213: -1842777005802955161
+    second: Inverja_SpriteSheet_83
+  - first:
+      213: 95813524715744246
+    second: Inverja_SpriteSheet_84
+  - first:
+      213: 8173079873629904005
+    second: Inverja_SpriteSheet_85
+  - first:
+      213: -5984028474633611997
+    second: Inverja_SpriteSheet_86
+  - first:
+      213: -244411811819595721
+    second: Inverja_SpriteSheet_87
+  - first:
+      213: 2022128272122309312
+    second: Inverja_SpriteSheet_88
+  - first:
+      213: -322523847383094160
+    second: Inverja_SpriteSheet_89
+  - first:
+      213: -6969451046315540169
+    second: Inverja_SpriteSheet_90
+  - first:
+      213: -1181968034757459971
+    second: Inverja_SpriteSheet_91
+  - first:
+      213: -2424105031981556761
+    second: Inverja_SpriteSheet_92
+  - first:
+      213: 7167133792417544158
+    second: Inverja_SpriteSheet_93
+  - first:
+      213: 8453968596695530802
+    second: Inverja_SpriteSheet_94
+  - first:
+      213: 914478644201833219
+    second: Inverja_SpriteSheet_95
+  - first:
+      213: 3947168478135256500
+    second: Inverja_SpriteSheet_96
+  - first:
+      213: 4993754605446295735
+    second: Inverja_SpriteSheet_97
+  - first:
+      213: -1362060943471888948
+    second: Inverja_SpriteSheet_98
+  - first:
+      213: -5747480526370680702
+    second: Inverja_SpriteSheet_99
+  - first:
+      213: -8069584122073117222
+    second: Inverja_SpriteSheet_100
+  - first:
+      213: 6920509863655962088
+    second: Inverja_SpriteSheet_101
+  - first:
+      213: 6844762693111031754
+    second: Inverja_SpriteSheet_102
+  - first:
+      213: 5947064379017781017
+    second: Inverja_SpriteSheet_103
+  - first:
+      213: 6147452093036223577
+    second: Inverja_SpriteSheet_104
+  - first:
+      213: 5106451070601190284
+    second: Inverja_SpriteSheet_105
+  - first:
+      213: -5277624967847475000
+    second: Inverja_SpriteSheet_106
+  - first:
+      213: -1589605397770012177
+    second: Inverja_SpriteSheet_107
+  - first:
+      213: -3965639518950710674
+    second: Inverja_SpriteSheet_108
+  - first:
+      213: -657418677738928052
+    second: Inverja_SpriteSheet_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e5f12ea06e3130800000000000000
+      internalID: 3548379857424868372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 455
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d617a02e48d1d61c0800000000000000
+      internalID: -4508915195362774675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 455
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcb5f4d57272b60800000000000000
+      internalID: 7721183367866863598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 455
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66337db27e8e0b500800000000000000
+      internalID: 410083645661328230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfdc9abd365d1380800000000000000
+      internalID: -8998941657292546116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 228
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9ddf08851a19f70800000000000000
+      internalID: 9192305715933207030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 228
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e339ea414492e20800000000000000
+      internalID: 3326264655408741897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 228
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b932b24c7cab20800000000000000
+      internalID: 3147026865524946145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1773304ac22120800000000000000
+      internalID: 2387693129549945389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad621c305767c940800000000000000
+      internalID: 5316331479437045167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f726b3285c1adb30800000000000000
+      internalID: 4312790758042511348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inverja_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 174
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f200385cbe941b0800000000000000
+      internalID: -5671743022157517019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24a514a45d4a2874489823dbfdb37efa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
